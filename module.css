@@ -1,0 +1,82 @@
+#dnncDBA            { background:#fff;border:solid 1px #999; width:100%; padding:10px; }
+#dnncDBA .graphbar  {  }
+#dnncDBA .infoSize  { padding-bottom:20px; }
+
+#dnncDBA .dnnLabel {
+    display: inline-block;
+    float: left;
+    position: relative;
+    width: auto;
+    padding-right: 0;
+    margin-right: 5px;
+    overflow: visible;
+    text-align: right;
+    line-height:36px;
+}
+
+
+
+
+
+
+#dnncDBA .btnGo {height:37px; width:37px;}
+
+#dnncDBA .grd-dbdata .infoBox {
+    background: #dedede;
+    text-align:center;
+    line-height:50px;
+}
+#dnncDBA .grd-dbdata .infoBox td { border: solid 5px #fff; width:25%; }
+
+
+
+#dnncDBA .grd-dbdata                    { width:100%; border-spacing:0;  }
+#dnncDBA .grd-dbdata .tableNameStyle    { border-right:solid 1px #999; line-height:36px; padding-left:5px; }
+#dnncDBA .grd-dbdata .bar-holder        { width:90%; }
+
+#dnncDBA .grd-dbdata .itemStyle         { background:#dedede; }
+#dnncDBA .grd-dbdata .altStyle          { background:#ccc; }
+
+#dnncDBA .grd-dbdata .bar-holder img  { 
+    border:none; 
+    height:22px;
+    margin-top:1px; 
+    margin-bottom:1px; }
+
+#dnncDBA .graphbar .grd-dbdata .bar-holder  .rowbar img {
+    background:blue;
+
+    border:solid 1px #999;
+    border-left:none;
+    -webkit-border-top-right-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    -moz-border-radius-topright: 3px;
+    -moz-border-radius-bottomright: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background: -moz-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(49,158,80,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(23,11,6,1)), color-stop(100%, rgba(49,158,80,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(49,158,80,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(49,158,80,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(49,158,80,1) 100%); /* ie10+ */
+    background: linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(49,158,80,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#319E50', endColorstr='#170B06',GradientType=1 ); /* ie6-9 */
+}
+#dnncDBA .graphbar .grd-dbdata .bar-holder  .sizebar img {
+    background:yellow;
+    border:solid 1px #999;
+    border-left:none;
+    -webkit-border-top-right-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    -moz-border-radius-topright: 3px;
+    -moz-border-radius-bottomright: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background: -moz-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(28,50,158,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(23,11,6,1)), color-stop(100%, rgba(28,50,158,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(28,50,158,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(28,50,158,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(28,50,158,1) 100%); /* ie10+ */
+    background: linear-gradient(45deg, rgba(23,11,6,1) 0%, rgba(28,50,158,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1C329E', endColorstr='#170B06',GradientType=1 ); /* ie6-9 */
+}

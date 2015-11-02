@@ -1,0 +1,38 @@
+﻿<h3>DnnC_DB_Analyzer</h3>
+<p class="Contributor">
+	DnnConsulting.nl <br />
+	<a href="mailto:modules@dnnconsulting.nl">modules@dnnconsulting.nl</a><br />
+	<a href=http://www.dnnconsulting.nl>http://www.dnnconsulting.nl</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DnnC DBAnalyzer</h3>
+	<p class="Owner">
+		<b>Version v01.00.00</b><br /><br />
+	</p>
+	<p>
+	The DnnC DBAnalyzer is a tool that will give you a visualization of your database which includes:
+	<ul>
+		<li>The database name</li>
+		<li>The database size</li>		
+		<li>The database used space</li>
+		<li>The database available space</li>
+		<li>A list of a  database tables</li>
+		<li>The table name</li>
+		<li>The table row count</li>
+		<li>The table size in Mb's</li>
+	</ul>
+		
+	</p>
+
+	<p>The idea behind this module is to aid you in maintanence and problem solving you database.</p>
+	<!--
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>
+	-->
+</div>
